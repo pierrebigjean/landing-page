@@ -1,0 +1,15 @@
+.banner {
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  color: white;
+  height: 600px;
+  align-items: center;
+}
+.banner p {
+  font-size: 25px;
+  opacity: 0.7;
+}
+.banner h1 {
+  font-size: 40px;
+}

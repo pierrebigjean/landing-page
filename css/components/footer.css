@@ -1,0 +1,22 @@
+.footer {
+  background: #F4F4F4;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  color: rgba(0,0,0,0.3);
+  flex-direction: column;
+}
+.footer-links {
+  display: flex;
+  align-items: center;
+}
+.footer-links a {
+  color: #1af3b2;
+  text-decoration: none;
+  font-size: 25px;
+  padding: 0px 10px;
+}
+.footer-links a:hover {
+  color: #4536b8;
+}
